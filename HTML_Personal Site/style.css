@@ -1,0 +1,20 @@
+body{
+    background-color: #A4BE7B;
+}
+ hr {
+    
+    border-style: none;
+    border-top: dotted;
+    border-color:#E5D9B6;
+    border-width: 5px;
+    width: 5%;
+}
+h3{
+    color:#3C2317 ;
+}
+/* table{
+    
+} */
+h3:hover{
+    color: aqua;
+}
